@@ -4,4 +4,4 @@ __pycache__
 .env
 .DS_Store
 dist
-build
+buildexpenses.db
